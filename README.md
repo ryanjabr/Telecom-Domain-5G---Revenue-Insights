@@ -106,7 +106,19 @@ MS % = AVERAGE(fact_market_share[ms_pct])
 ## Dashboard
 ## Insights from the final report
 
-- Atliqo's Revenue has declined by 0.5 % after 5G Installation
+- Atliqo's Revenue has declined by 0.5 % after 5G Installation.
 
-- Plans P1,P2 and P3 are the top 3 plans that fetch highest revenue (before and after 5G Installation). 
+- Plans P1,P2 and P3 are the top 3 plans that fetch highest revenue (before and after 5G Installation). Atliqo can review plans that are not actively used
+-  by users and take steps to improve user retention rate.
+
+- Atliqo's Market Share has decreased significantly by 7% after 5G installation.
+
+- Cities like Pune, Lucknow and Chennai saw an increase in Monthly Active Users after 5G Installation, whereas cities like Ahmedabad, Delhi and Raipur saw a decrease in Monthly Active Users after 5G Installation with Ahmedabad the most affected with around 19% dip.
+
+- After Installation of 5G , almost all cities except for Mumbai had an increase in monthly unsubscribed users with Lucknow the most affected with 78%
+
+- In the month of June, when 5G was launched, we had the lowest number of monthly active users. In July it increased to normal rate, but in the coming months it kept falling.
+
+- Mumbai, Kolkata and Delhi fetched us maximum revenue after installation of 5G.
+- 
    
