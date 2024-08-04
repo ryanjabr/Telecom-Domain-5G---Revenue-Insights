@@ -1,1 +1,1 @@
-# Telecom-Domain-5G---Revenue-Insights
+# AtliQo Telecom - Revenue Insights
