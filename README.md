@@ -19,7 +19,7 @@ Total Revenue = SUM(fact_atliqo_metrics[atliqo_revenue_crores])
 ```
 
 ```dax
-   Avg ARPU = AVERAGE(fact_atliqo_metrics[arpu])
+Avg ARPU = AVERAGE(fact_atliqo_metrics[arpu])
    ```
 
 ```dax
@@ -101,4 +101,8 @@ Monthly Unsubscribed users % change = DIVIDE([Monthly Unsubscribed Users after 5
 ```dax
 MS % = AVERAGE(fact_market_share[ms_pct])
 ```
+
+
+## Dashboard
+## Insights from the final report
    
