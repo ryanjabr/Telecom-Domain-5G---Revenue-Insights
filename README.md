@@ -105,4 +105,8 @@ MS % = AVERAGE(fact_market_share[ms_pct])
 
 ## Dashboard
 ## Insights from the final report
+
+- Atliqo's Revenue has declined by 0.5 % after 5G Installation
+
+- Plans P1,P2 and P3 are the top 3 plans that fetch highest revenue (before and after 5G Installation). 
    
