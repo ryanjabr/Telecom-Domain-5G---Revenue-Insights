@@ -11,3 +11,8 @@ AtliQo’s business director requested their analytics team to provide a compari
 - Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has minimal idea about dashboarding. Hence, you need to represent the insights in a much better way. The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
 
 - Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+
+## Creating Base measures
+```dax
+Total Revenue = SUM(fact_atliqo_metrics[atliqo_revenue_crores])
+```
