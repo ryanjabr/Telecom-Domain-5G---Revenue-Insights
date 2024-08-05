@@ -130,6 +130,6 @@ MS % = AVERAGE(fact_market_share[ms_pct])
 
 - Mumbai, Kolkata and Delhi fetched maximum revenue after installation of 5G.
 
-### Dashboard created (pdf) - https://github.com/ryanjabr/Telecom-Domain-5G---Revenue-Insights/blob/main/Telecom%20Analysis%20Project.pdf
+Dashboard created (pdf) - https://github.com/ryanjabr/Telecom-Domain-5G---Revenue-Insights/blob/main/Telecom%20Analysis%20Project.pdf
   
    
