@@ -105,7 +105,7 @@ MS % = AVERAGE(fact_market_share[ms_pct])
 
 ## Dashboard
 
-[Telecom Analysis.pdf](https://github.com/user-attachments/files/16491070/Telecom.Analysis.pdf)
+![Telecom Analysis-1](https://github.com/user-attachments/assets/fed720a4-8b7f-457a-9fac-c68ebc528c1b)
 
 ## Insights from the final report
 
