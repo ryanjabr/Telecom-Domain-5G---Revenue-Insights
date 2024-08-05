@@ -107,6 +107,8 @@ MS % = AVERAGE(fact_market_share[ms_pct])
 
 ![Telecom Analysis-1](https://github.com/user-attachments/assets/fed720a4-8b7f-457a-9fac-c68ebc528c1b)
 
+![Telecom Analysis (1)-1](https://github.com/user-attachments/assets/2b4f76b0-d8c7-40fc-8715-cba6b0fe430d)
+
 ## Insights from the final report
 
 - Atliqo's Revenue has declined by 0.5 % after 5G Installation.
